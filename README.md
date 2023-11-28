@@ -1,8 +1,8 @@
-## Hi there 👋
+# Hi there 👋
 
 Hi, I'm Kroppeb, also known as Mr. Kropp
 
-### Advent of Code
+## Advent of Code
 
 Given it's (almost) December, I'm assuming some of those reading this will be coming here from AoC.
 * My repo with my solutions: [AdventOfCodeSolutions](https://github.com/Kroppeb/AdventOfCodeSolutions)
